@@ -1,0 +1,63 @@
+.end{
+  margin: 0 auto;
+  width: 300px;
+  min-width: 300px;
+  border: 1px solid black;
+  
+}
+.container{
+  margin: 80px 20px 0px;
+  /* display: flex;
+  flex-direction: column; */
+}
+span.front, span.back{
+  font-weight: bold;
+  font-size: 20px;
+}
+span.front{
+  line-height: 1.5em;
+}
+label.label1{
+  margin-top: 30px;
+  display: inline-block;
+  font-size: 12px;
+
+}
+label.label2{
+  margin-top: 10px;
+  display: inline-block;
+  font-size: 10px;
+}
+button.profileBtn{
+  background-color: transparent;
+  height: 2rem;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  font-size: 0.75rem;
+  font-weight: bold;
+  line-height: 0.8rem;
+  margin-top: 200px;
+  padding: 10px;
+
+}
+button.startBtn{
+  background-color: #0000b3;
+  height: 2rem;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+  line-height: 0.8rem;
+  margin-top: 20px;
+  padding: 10px;
+}
+button.profileBtn:hover{
+  cursor: pointer;
+}
+button.startBtn:hover{
+  cursor: pointer;
+}

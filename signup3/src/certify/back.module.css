@@ -1,0 +1,12 @@
+.back button{
+  border: none;
+  background-image: url('../assets/left-arrow.png');
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  margin: 10px;
+}
+.back button:hover{
+  cursor: pointer;
+}

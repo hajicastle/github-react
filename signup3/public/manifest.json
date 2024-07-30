@@ -1,0 +1,33 @@
+{
+<<<<<<< HEAD
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+=======
+  "short_name": "Teambl",
+  "name": "Teambl",
+  "icons": [
+    {
+      "src": "default.png",
+>>>>>>> 948164d695d51645eb9e69042641d16e79d97817
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

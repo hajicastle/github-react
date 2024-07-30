@@ -1,0 +1,52 @@
+.start{
+  margin: 0 auto;
+  width: 300px;
+  min-width: 300px;
+  border: 1px solid black;
+  
+}
+.container{
+  margin: 80px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.intro{
+  text-align: center;
+}
+span.span{
+  margin-top: 30px;
+  display: inline-block;
+  font-size: 12px;
+}
+.teambl{
+  font-weight: bold;
+  font-size: 17.5px;
+  line-height: 1.5em;
+  margin-top: 20px;
+}
+label.label{
+  margin-top: 10px;
+  display: inline-block;
+  font-size: 12px;
+  word-spacing: 0.0000000001px;
+  
+}
+
+
+button.nextBtn{
+  background-color: #0000b3;
+  height: 2rem;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+  line-height: 0.8rem;
+  margin-top: 250px;
+  padding: 10px;
+}
+button.nextBtn:hover{
+  cursor: pointer;
+}
